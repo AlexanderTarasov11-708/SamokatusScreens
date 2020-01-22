@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_samokatus"
+        android:icon="@drawable/icon_home"
+        android:title="@string/samokatus" />
+
+    <item
+        android:id="@+id/nav_pay"
+        android:icon="@drawable/icon_calendar"
+        android:title="@string/payndelivery" />
+
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/icon_settings"
+        android:title="@string/account" />
+
+</menu>

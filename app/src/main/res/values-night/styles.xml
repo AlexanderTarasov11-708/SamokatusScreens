@@ -3,12 +3,12 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDarkDay</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkNight</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
     <style name="PayStyle">
-        <item name="android:background">#FFFFFF</item>
+        <item name="android:background">#F4F6F8</item>
         <item name="android:elevation">4dp</item>
     </style>
 

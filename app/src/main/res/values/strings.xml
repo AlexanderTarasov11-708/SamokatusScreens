@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="profile">profile</string>
+    <string name="logo">logo</string>
+    <string name="search">search</string>
+    <string name="payndelivery">Оплата</string>
+    <string name="samokatus">Самокатус</string>
+    <string name="account">Счет</string>
+    <string name="profile_name">Константин</string>
+    <string name="available">Доступно</string>
+    <string name="balance">3 290,75 Р</string>
+    <string name="question">Почему столько</string>
+    <string name="money_button">Забрать Деньги</string>
+    <string name="notification">Завтра день зарплаты</string>
+    <string name="salary">+ 30 000 Р</string>
+    <string name="product_price">1500 P</string>
+    <string name="product_name">Кружка белая</string>
+    <string name="product_count">4</string>
+    <string name="payment">Оплата</string>
+    <string name="card_number">Картой **** **** **** 2140</string>
+    <string name="Delivery">Доставка</string>
+    <string name="delivery_price">100р</string>
+    <string name="add_price">500р</string>
+    <string name="price_count">1 500 ₽ x 4</string>
+    <string name="price_full">9 600 ₽</string>
+    <string name="delivery_full">600 ₽</string>
+    <string name="discount">–</string>
+    <string name="full_price">9 600 ₽</string>
+    <string name="button_pay">Оплатить</string>
 </resources>
